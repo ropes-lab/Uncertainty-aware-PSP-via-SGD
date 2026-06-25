@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1280632569.svg)](https://doi.org/10.5281/zenodo.20863622)
+
 # Uncertainty-aware Power System Planning via Gradient Descent
 This repeository is a mirror of [THIS](https://github.com/MehrnoushGhazanfariharandi/Uncertainty-aware-PSP-via-SGD) repository by *Mehrnoush Ghazanfariharandi* and contains the code and data to replicate the results of the paper "Uncertainty-aware Power System Planning via Gradient Descent". 
 
